@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+Random Forest project tutorial
