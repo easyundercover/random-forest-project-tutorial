@@ -3,3 +3,4 @@ numpy>=1.18.5
 matplotlib>=3.2.2
 seaborn
 sklearn
+xgboost
